@@ -1,7 +1,7 @@
 #include <graphics.h>
 #include <stdio.h>
 #include <conio.h>
-// Make the trees, Clouds **SONAM code
+
 //GOOD LUCK MAN :)
 
 void main()
