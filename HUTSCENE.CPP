@@ -170,14 +170,5 @@ arc(521,20,134,192,10);
 //B5
 arc(510,26,0,62,10);
 arc(531,26,134,192,10);
-
-
-//TREE
-//arc(540,240,330,40,20 );
-//arc(600,240,130,210,20 ) ;
-setfillstyle(SOLID_FILL, GREEN);
-setcolor(BLACK);
-//drawpoly(4,tree);
-//drawpoly(5, trunck1);
 getch();
 }
