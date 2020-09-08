@@ -11,3 +11,7 @@ The repositary will contain coded implementation of different algorithms used in
 
  __A note for linux users:__ You can try to insatll the graphics.h library go to youtube to know more.
 ___HAPPY LEARNING___
+
+
+Code included for : 
+SCENERY : https://github.com/Manaujseed/Graphics-File/blob/master/HUTSCENE.CPP
