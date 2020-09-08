@@ -14,8 +14,6 @@ ___HAPPY LEARNING___
 
 
 Code included for : 
-<a href="https://github.com/Manaujseed/Graphics-File/blob/master/HUTSCENE.CPP"> SCENERY</a>
-\n
-<a href="https://github.com/Manaujseed/Graphics-File/blob/master/DDA%20Line%20Drawing.CPP"> DDA LINE DRAWING</a>
-\n
+<a href="https://github.com/Manaujseed/Graphics-File/blob/master/HUTSCENE.CPP"> SCENERY</a> <br>
+<a href="https://github.com/Manaujseed/Graphics-File/blob/master/DDA%20Line%20Drawing.CPP"> DDA LINE DRAWING</a><br>
 <a href="https://github.com/Manaujseed/Graphics-File/blob/master/Bresenham%20Line%20Drawing%20Algorithm.CPP"> BRESENHAM's LINE DRAWING</a>
