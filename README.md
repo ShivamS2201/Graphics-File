@@ -20,6 +20,6 @@ Code included for : <br>
 <a href="https://github.com/Manaujseed/Graphics-File/blob/master/Mid%20Point%20Circle%20Algorithm.CPP">MIDPOINT CIRCLE DRAWING </a><br>
 <a href="https://github.com/Manaujseed/Graphics-File/blob/master/Bresenham%20Circle%20Drawing%20Algorithm.CPP"> BRESENHAM's CIRCLE DRAWING</a><br>
 
-<a href="https://github.com/Manaujseed/Graphics-File/blob/master/Bresenham%20Circle%20Drawing%20Algorithm.CPP">Coher Sutherland Algorithm</a><br> 
+<a href="https://github.com/ShivamS2201/Graphics-File/blob/master/Cohen%20Sutherland%20Line%20Clipping%20Algorithm.">Coher Sutherland Algorithm</a>
 <h5>Check Out GFG for more info  <h6 style="font-size:60px;"> <a href="https://www.geeksforgeeks.org/line-clipping-set-1-cohen-sutherland-algorithm/">Geeks for Geeks</a></h6>
 </h5>
