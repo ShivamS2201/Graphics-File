@@ -21,4 +21,4 @@ Code included for : <br>
 <a href="https://github.com/Manaujseed/Graphics-File/blob/master/Bresenham%20Circle%20Drawing%20Algorithm.CPP"> BRESENHAM's CIRCLE DRAWING</a><br>
 
 <a href="https://github.com/Manaujseed/Graphics-File/blob/master/Bresenham%20Circle%20Drawing%20Algorithm.CPP">Coher Sutherland Algorithm</a><br> 
-<h6 style="font-size:60px;"> <a href="https://github.com/Manaujseed/Graphics-File/blob/master/Bresenham%20Circle%20Drawing%20Algorithm.CPP">Geeks for Geeks</a></h6>
+<\t>     Check Out GFG for more info  <h6 style="font-size:60px;"> <a href="https://www.geeksforgeeks.org/line-clipping-set-1-cohen-sutherland-algorithm/">Geeks for Geeks</a></h6>
